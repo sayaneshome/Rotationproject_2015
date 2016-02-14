@@ -1,6 +1,6 @@
-chr -   b73_chr1    B73-Chr1    0   301354135	dred
-chr -   b73_chr2    B73-Chr2    0   237068873	vvdblue
-chr -   b73_chr3    B73-Chr3    0   232140174	vvdblue
-chr -   b73_chr4    B73-Chr4    0   241473504	vvdpgreen
-chr -   b73_chr5    B73-Chr5    0   217872852	yellow
-chr -   w22_chr1    W22-Chr1    0   301354135	vvdblue
+    chr -   b73_chr1    B73-Chr1    0   301354135   	dred
+    chr -   b73_chr2    B73-Chr2    0   237068873   	vdorange
+    chr -   b73_chr3    B73-Chr3    0   232140174   	black
+    chr -   b73_chr4    B73-Chr4    0   241473504   	yellow
+    chr -   b73_chr5    B73-Chr5    0   217872852   	pgreen
+    chr -   w22_chr1    W22-Chr1    0   301354135	blue
