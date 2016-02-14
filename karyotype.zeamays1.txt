@@ -1,0 +1,6 @@
+    chr -   b73_chr1    B73-Chr1    0   301354135   
+    chr -   b73_chr2    B73-Chr2    0   237068873   
+    chr -   b73_chr3    B73-Chr3    0   232140174   
+    chr -   b73_chr4    B73-Chr4    0   241473504   
+    chr -   b73_chr5    B73-Chr5    0   217872852   
+    chr -   w22_chr1    W22-Chr1    0   301354135

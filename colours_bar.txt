@@ -1,0 +1,13 @@
+black
+dred 
+dpred
+vdgreen 
+pgreen
+vvdpgreen
+blue
+vvdblue
+vdpblue
+vdpurple
+vdppurple
+vdorange
+yellow 
